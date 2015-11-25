@@ -1,0 +1,4 @@
+SINGLETON PATTERN
+
+ - It is used when you want to eliminate the option of instantiating more than one object.
+ - Only one object of the class is permitted and each class creates a object of the singleton shares a space in memory.
